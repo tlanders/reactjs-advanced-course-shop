@@ -6,5 +6,6 @@ let initialState = [
 ];
 
 export default function products(state = initialState, action) {
+    // currently does nothing
     return state;
 }
